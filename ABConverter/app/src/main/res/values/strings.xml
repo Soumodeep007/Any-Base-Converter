@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ABConverter</string>
+    <string name="author_name">SOUMODEEP </string>
+    <string name="loading">loading</string>
+    <string name="binary">BINARY</string>
+    <string name="decimal">DECIMAL</string>
+    <string name="octal">OCTAL</string>
+    <string name="hexa">HEXADECIMAL</string>
+    <string name="convert">Convert</string>
+    <string name="display">Enter the text</string>
+    <string name="info">INFO</string>
+    <string name="butt1">Binary To Any Base</string>
+    <string name="butt2">Decimal To Any Base</string>
+    <string name="butt3">Octal To Any Base</string>
+    <string name="butt4">Hexadecimal To Any Base</string>
+    <string name="txt">Click to know more about the coversions</string>
+    <string-array name="base">
+        <item>Binary</item>
+        <item>Decimal</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+    <string name="title_activity_hexa_to_anybase">hexa_to_anybase</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="Heading_1">BINARY TO DECIMAL</string>
+    <string name="Heading_2">BINARY TO OCTAL</string>
+    <string name="Heading_3">BINARY TO HEXADECIMAL</string>
+
+</resources>
